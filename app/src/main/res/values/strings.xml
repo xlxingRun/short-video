@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bupt_app</string>
+    <string name="pause">pause_image_button</string>
+    <string name="top_view">加载封面图</string>
+    <string name="like">点赞</string>
+    <string name="comment">评论</string>
+</resources>

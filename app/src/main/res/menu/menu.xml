@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_home"
+        android:icon="@mipmap/home_focus"
+        android:title="首页" />
+    <item
+        android:id="@+id/item_add"
+        android:icon="@mipmap/add"
+        android:title="拍摄" />
+    <item
+        android:id="@+id/item_my"
+        android:icon="@mipmap/my_unfocus"
+        android:title="我的" />
+</menu>

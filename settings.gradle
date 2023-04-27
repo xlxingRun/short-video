@@ -1,0 +1,2 @@
+rootProject.name='bupt_app'
+include ':app'

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="viewPager_background">#8A6F83</color>
+    <color name="bottomNavigationView">#CBCBD1</color>
+    <color name="camera_background">#353434</color>
+    <color name="camera_view">#4E4C4C</color>
+    <color name="shoot">#F7F7FA</color>
+</resources>

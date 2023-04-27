@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/vp2"
+        android:layout_width="match_parent"
+        android:layout_height="680dp"
+        android:background="@color/viewPager_background">
+    </androidx.viewpager2.widget.ViewPager2>
+
+<!--    <ListView-->
+<!--        android:id="@+id/info"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="680dp"-->
+<!--        />-->
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bnv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:itemBackground="@color/bottomNavigationView"
+        app:menu="@menu/menu"/>
+</LinearLayout>
